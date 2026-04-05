@@ -1,9 +1,9 @@
 class Doit < Formula
   desc "High-efficiency personal task manager"
   homepage "https://github.com/wreckingadm/doit"
-  url "https://github.com/wreckingadm/homebrew-doit/releases/download/doit-cli-v0.9.1/doit-v0.9.1-4a34853-darwin-arm64.tar.gz"
-  sha256 "765bb18256ea3f0147684f8cbc896eda042c8114bcf6b13f28dc8d736fe3df6c"
-  version "0.9.1"
+  url "https://github.com/wreckingadm/homebrew-doit/releases/download/doit-cli-v0.10.0/doit-v0.10.0-f6e51a0-darwin-arm64.tar.gz"
+  sha256 "f21fc79af43c53faa7985e7afe51150175730a109e2ccd2eec648e1739772719"
+  version "0.10.0"
 
   def install
     libexec.install Dir["*"]
