@@ -1,8 +1,8 @@
 class Doit < Formula
   desc "High-efficiency personal task manager"
   homepage "https://github.com/wreckingadm/doit"
-  url "https://github.com/wreckingadm/doit/releases/download/doit-cli-v0.8.0/doit-v0.8.0-ab8ebcb-darwin-arm64.tar.gz"
-  sha256 "5ab9c0440a13492059486bd37fe8fa1edcac70f882fd4e1dcd8bf1108ca42b1d"
+  url "https://github.com/wreckingadm/doit/releases/download/main-app-v0.8.1/doit-v0.8.0-c76b39b-darwin-arm64.tar.gz"
+  sha256 "6eef99654ea6e1e94ecdf0524854ff81ab49d7c1eba69a949c1ad3a8b810c7cd"
   version "0.8.0"
 
   def install
